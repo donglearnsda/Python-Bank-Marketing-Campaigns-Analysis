@@ -1,2 +1,3 @@
 # Python-Bank-Marketing-Campaigns-Analysis
-This project is about analyzing bank marketing campaigns results. The main purpose of the analysis is identifying/predicting customers who will be able to place deposit after the marketing campaigns.
+
+This project entails the comprehensive analysis of the outcomes of bank marketing campaigns. The principal objective of this analysis is to discern and forecast the subset of customers who exhibit a likelihood of subscribing to term deposits subsequent to the execution of the marketing campaigns.
