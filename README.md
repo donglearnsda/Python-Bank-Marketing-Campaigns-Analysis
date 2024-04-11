@@ -25,25 +25,26 @@ Therefore, Bank X wants to identify current customers who have the opportunity t
 Banks use the money deposited in term deposits to invest in various financial products like loans, bonds, and stocks. These investments typically offer a higher return on investment than the interest paid on term deposits. This allows banks to make a profit.
 Persuading customers to open term deposits is a strategy that banks use to increase their revenue and profitability. They achieve this by offering attractive interest rates on term deposits compared to regular savings accounts.
 
-**4. Data dictionary:** https://docs.google.com/spreadsheets/d/1emKaAfifvI30_Ef2oPLuc7rdoRz5AP2jXrsVLE8k6Cc/edit?usp=sharing
+**4. Data dictionary:** 
+https://docs.google.com/spreadsheets/d/1emKaAfifvI30_Ef2oPLuc7rdoRz5AP2jXrsVLE8k6Cc/edit?usp=sharing
 
-age: Customer's age (Integer)
-job: Customer's occupation (Categorical)
-marital: Customer's marital status (Categorical)
-education: Customer's education level (Categorical)
-default: Indicates credit risk (Yes/No or Binary)
-balance: Balance in customer's account (Numeric)
-housing: Indicates housing loan (Yes/No or Binary)
-loan: Indicates personal loan (Yes/No or Binary)
-contact: Type of contact made (Categorical)
-day: Day of the contact (Integer)
-month: Month of the contact (Categorical)
-duration: Duration of the last contact (seconds) (Numeric)
-campaign: Number of contacts in this campaign for this customer (Integer)
-pdays: Days since last contact in previous campaign (Integer)
-previous: Number of contacts before this campaign (Integer)
-poutcome: Outcome of the previous marketing campaign (Categorical)
-deposit: Whether the customer agreed to a deposit (Yes/No or Binary)
+- age: Customer's age (Integer)
+- job: Customer's occupation (Categorical)
+- marital: Customer's marital status (Categorical)
+- education: Customer's education level (Categorical)
+- default: Indicates credit risk (Yes/No or Binary)
+- balance: Balance in customer's account (Numeric)
+- housing: Indicates housing loan (Yes/No or Binary)
+- loan: Indicates personal loan (Yes/No or Binary)
+- contact: Type of contact made (Categorical)
+- day: Day of the contact (Integer)
+- month: Month of the contact (Categorical)
+- duration: Duration of the last contact (seconds) (Numeric)
+- campaign: Number of contacts in this campaign for this customer (Integer)
+- pdays: Days since last contact in previous campaign (Integer)
+- previous: Number of contacts before this campaign (Integer)
+- poutcome: Outcome of the previous marketing campaign (Categorical)
+- deposit: Whether the customer agreed to a deposit (Yes/No or Binary)
 
 **5. Analytics requests:**
 - Visualize marketing effectiveness with charts like line graphs, bar charts, etc.
